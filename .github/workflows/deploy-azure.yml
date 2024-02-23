@@ -62,3 +62,4 @@ jobs:
 #         run: |
 #           bicep build azure-resources.bicep
 #           az deployment sub create --name myDeployment --location westus3 --template-file ./azure-resources.json
+
