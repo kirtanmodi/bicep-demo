@@ -35,6 +35,8 @@ jobs:
         with:
           resourceGroupName: "Test" #change to reflect your Resource Group
           template: main.bicep
+# use when you want to deploy the resources using Azure CLI
+
 ## ** You can uncomment below code to deploy the resources, but
 ## for simplicity use the above ****
 #############################################
